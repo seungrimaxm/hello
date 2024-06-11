@@ -8,7 +8,7 @@ dependencies:
   - toolz
   - matplotlib
   - dill
-  - pandas=1.3.4
+  - pandas
   - partd
   - bokeh
   - dask
